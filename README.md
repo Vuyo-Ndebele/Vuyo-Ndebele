@@ -10,3 +10,35 @@ I enjoy exploring datasets, solving problems, and building visual stories with t
   My goal is to grow in the data field and contribute to real-world solutions through data-driven decisions.
 
 - 🔍 Always learning | 📊 Data-driven | 🤝 Open to collaboration
+
+# 🧰 Skills & Tools
+
+🗃 SQL (Data extraction, Joins, Aggregations, CTEs, Subqueries, Unions)
+
+📊 Excel (Formulas, Pivot Tables, Data Cleaning, Vlookup, Hlookup, Charts)
+
+📈 Power BI (Dashboards, DAX, Data Modeling)
+
+📉 Tableau (Interactive Visualizations)
+
+📎 Google Sheets (Functions, Charts)
+
+🧹 Data Cleaning & Wrangling
+
+🔍 Exploratory Data Analysis (EDA)
+
+📑 Reporting & Data Storytelling
+
+🐍 Python (Pandas, Matplotlib)
+
+# 💡 Soft Skills
+
+👂 Active Listening – Understanding problems before solving them
+
+🗣 Communication – Explaining data insights clearly to both tech and non-tech teams
+
+⏱ Time Management – Prioritizing tasks to meet deadlines efficiently
+
+🧠 Critical Thinking – Asking the right questions and validating results
+
+🔄 Adaptability – Eager to learn and flexible in fast-changing environments
