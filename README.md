@@ -52,7 +52,7 @@ Tools: Excel, Power BI
 - Analyzed sales data to identify top-selling products, seasonal trends, and regional performance
 - Created interactive dashboards and KPIs to support data-driven decisions
   
-- View my portfolio projects on my [Github](https://github.com/Vuyo-Ndebele)
+- View my portfolio projects on my [Github](https://github.com/Vuyo-Ndebele/WalmartSalesData.git)
 
 ## ☕ Coffee Shop Sales Dashboard
 
