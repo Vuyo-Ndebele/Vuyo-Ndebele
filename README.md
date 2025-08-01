@@ -80,3 +80,15 @@ Tools: SQL, Excel, Power BI
 - Used SQL to filter, group, and extract trends from large datasets
 - Built interactive Power BI dashboards to visualize complaint types, resolution time, and regional patterns
 - Provided insights to improve customer service and reduce resolution delays
+
+# 🤝 Connect with Me
+
+Feel free to reach out! Whether you want to collaborate, ask questions, or just say hi, I’m open to connecting.
+
+- 📧 [Email:](ndebelemoses@yahoo.com).
+
+- 💼 [LinkedIn:](https://www.linkedin.com/in/vuyo-ndebele-a66218361).
+
+- 📞 Phone: +27 84 386 4801
+
+Looking forward to connecting! 😊
