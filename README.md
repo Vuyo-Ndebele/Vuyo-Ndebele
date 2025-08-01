@@ -49,19 +49,23 @@ I enjoy exploring datasets, solving problems, and building visual stories with t
 
 Tools: Excel, Power BI
 
-• Analyzed sales data to identify top-selling products, seasonal trends, and regional performance
-• Created interactive dashboards and KPIs to support data-driven decisions
+- Analyzed sales data to identify top-selling products, seasonal trends, and regional performance
+- Created interactive dashboards and KPIs to support data-driven decisions
+  
+- View my portfolio projects on my [Github](https://github.com/Vuyo-Ndebele).
 
 ## ☕ Coffee Shop Sales Dashboard
 
 Tools: Excel, Power BI
 
-• Built a dynamic dashboard to monitor daily and monthly revenue, product performance, and customer patterns
-• Used calculated fields and slicers for interactive data exploration
+- Built a dynamic dashboard to monitor daily and monthly revenue, product performance, and customer patterns
+- Used calculated fields and slicers for interactive data exploration
+
+- View my portfolio projects on my [Github](https://github.com/Vuyo-Ndebele).
 
 ## 📱 Student Social Media Addiction Study
 
 Tools: SQL, Excel
 
-• Collected and cleaned data on student screen time and platform usage
-• Conducted analysis to uncover usage patterns and impact on academic performance
+- Collected data on student screen time and platform usage
+- Conducted analysis to uncover usage patterns and impact on academic performance
