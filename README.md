@@ -13,32 +13,32 @@ I enjoy exploring datasets, solving problems, and building visual stories with t
 
 # 🧰 Skills & Tools
 
-🗃 SQL (Data extraction, Joins, Aggregations, CTEs, Subqueries, Unions)
+- 🗃 SQL (Data extraction, Joins, Aggregations, CTEs, Subqueries, Unions)
 
-📊 Excel (Formulas, Pivot Tables, Data Cleaning, Vlookup, Hlookup, Charts)
+- 📊 Excel (Formulas, Pivot Tables, Data Cleaning, Vlookup, Hlookup, Charts)
 
-📈 Power BI (Dashboards, DAX, Data Modeling)
+- 📈 Power BI (Dashboards, DAX, Data Modeling)
 
-📉 Tableau (Interactive Visualizations)
+- 📉 Tableau (Interactive Visualizations)
 
-📎 Google Sheets (Functions, Charts)
+- 📎 Google Sheets (Functions, Charts)
 
-🧹 Data Cleaning & Wrangling
+- 🧹 Data Cleaning & Wrangling
 
-🔍 Exploratory Data Analysis (EDA)
+- 🔍 Exploratory Data Analysis (EDA)
 
-📑 Reporting & Data Storytelling
+- 📑 Reporting & Data Storytelling
 
-🐍 Python (Pandas, Matplotlib)
+- 🐍 Python (Pandas, Matplotlib)
 
 # 💡 Soft Skills
 
-👂 Active Listening – Understanding problems before solving them
+- 👂 Active Listening – Understanding problems before solving them
 
-🗣 Communication – Explaining data insights clearly to both tech and non-tech teams
+- 🗣 Communication – Explaining data insights clearly to both tech and non-tech teams
 
-⏱ Time Management – Prioritizing tasks to meet deadlines efficiently
+- ⏱ Time Management – Prioritizing tasks to meet deadlines efficiently
 
-🧠 Critical Thinking – Asking the right questions and validating results
+- 🧠 Critical Thinking – Asking the right questions and validating results
 
-🔄 Adaptability – Eager to learn and flexible in fast-changing environments
+- 🔄 Adaptability – Eager to learn and flexible in fast-changing environments
