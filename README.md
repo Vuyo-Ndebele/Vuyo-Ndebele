@@ -63,6 +63,8 @@ Tools: Excel, Power BI
 
 - View my portfolio projects on my [Github](https://github.com/Vuyo-Ndebele).
 
+# ⭐️ 📂 Projects
+
 ## 📱 Student Social Media Addiction Study
 
 Tools: SQL, Excel
