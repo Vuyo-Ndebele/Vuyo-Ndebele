@@ -63,7 +63,7 @@ Tools: Excel, Power BI
 
 - View my portfolio projects on my [Github](https://github.com/Vuyo-Ndebele/CoffeeShopSales.git)
 
-# ⭐️ 📂 Projects
+# ⭐️ Favourite Projects
 
 ## 📱 Student Social Media Addiction Study
 
