@@ -61,7 +61,7 @@ Tools: Excel, Power BI
 - Built a dynamic dashboard to monitor daily and monthly revenue, product performance, and customer patterns
 - Used calculated fields and slicers for interactive data exploration
 
-- View my portfolio projects on my [Github](https://github.com/Vuyo-Ndebele)
+- View my portfolio projects on my [Github](https://github.com/Vuyo-Ndebele?tab=repositories)
 
 # ⭐️ 📂 Projects
 
