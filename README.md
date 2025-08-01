@@ -71,3 +71,12 @@ Tools: SQL, Excel
 
 - Collected data on student screen time and platform usage
 - Conducted analysis to uncover usage patterns and impact on academic performance
+
+## 🏦 Consumer Complaints Analysis – Banking Sector
+
+Tools: SQL, Excel, Power BI
+
+- Analyzed customer complaint data to identify common issues and high-risk complaint categories
+- Used SQL to filter, group, and extract trends from large datasets
+- Built interactive Power BI dashboards to visualize complaint types, resolution time, and regional patterns
+- Provided insights to improve customer service and reduce resolution delays
