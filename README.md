@@ -9,4 +9,4 @@ I enjoy exploring datasets, solving problems, and building visual stories with t
 - 📂 I'm currently working on projects that help me sharpen my skills in data cleaning, exploratory data analysis, and dashboard creation.
   My goal is to grow in the data field and contribute to real-world solutions through data-driven decisions.
 
-🔍 Always learning | 📊 Data-driven | 🤝 Open to collaboration
+- 🔍 Always learning | 📊 Data-driven | 🤝 Open to collaboration
