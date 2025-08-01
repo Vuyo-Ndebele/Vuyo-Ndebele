@@ -52,7 +52,7 @@ Tools: Excel, Power BI
 - Analyzed sales data to identify top-selling products, seasonal trends, and regional performance
 - Created interactive dashboards and KPIs to support data-driven decisions
   
-- View my portfolio projects on my [Github](https://github.com/Vuyo-Ndebele).
+- View my portfolio projects on my [Github](https://github.com/Vuyo-Ndebele)
 
 ## ☕ Coffee Shop Sales Dashboard
 
@@ -61,7 +61,7 @@ Tools: Excel, Power BI
 - Built a dynamic dashboard to monitor daily and monthly revenue, product performance, and customer patterns
 - Used calculated fields and slicers for interactive data exploration
 
-- View my portfolio projects on my [Github](https://github.com/Vuyo-Ndebele).
+- View my portfolio projects on my [Github](https://github.com/Vuyo-Ndebele)
 
 # ⭐️ 📂 Projects
 
@@ -85,9 +85,9 @@ Tools: SQL, Excel, Power BI
 
 Feel free to reach out! Whether you want to collaborate, ask questions, or just say hi, I’m open to connecting.
 
-- 📧 [Email:](ndebelemoses@yahoo.com).
+- 📧 [Email:](ndebelemoses@yahoo.com)
 
-- 💼 [LinkedIn:](https://www.linkedin.com/in/vuyo-ndebele-a66218361).
+- 💼 [LinkedIn:](https://www.linkedin.com/in/vuyo-ndebele-a66218361)
 
 - 📞 Phone: +27 84 386 4801
 
