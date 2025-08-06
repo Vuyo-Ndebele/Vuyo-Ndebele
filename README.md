@@ -72,6 +72,8 @@ Tools: SQL, Excel
 - Collected data on student screen time and platform usage
 - Conducted analysis to uncover usage patterns and impact on academic performance
 
+- View my portfolio projects on my [Github](https://github.com/Vuyo-Ndebele/Student-Social-Media-Addiction.git)
+
 ## 🏦 Consumer Complaints Analysis – Banking Sector
 
 Tools: SQL, Excel, Power BI
