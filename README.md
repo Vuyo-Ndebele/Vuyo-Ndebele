@@ -47,7 +47,7 @@ I enjoy exploring datasets, solving problems, and building visual stories with t
 
 ## 🛒 Walmart Sales Analysis
 
-Tools: Excel, Power BI
+Tools: SQL, Excel, and Power BI
 
 - Analyzed sales data to identify top-selling products, seasonal trends, and regional performance
 - Created interactive dashboards and KPIs to support data-driven decisions
@@ -56,7 +56,7 @@ Tools: Excel, Power BI
 
 ## ☕ Coffee Shop Sales Dashboard
 
-Tools: Excel, Power BI
+Tools: SQL, Excel, and Power BI
 
 - Built a dynamic dashboard to monitor daily and monthly revenue, product performance, and customer patterns
 - Used calculated fields and slicers for interactive data exploration
@@ -67,7 +67,7 @@ Tools: Excel, Power BI
 
 ## 📱 Student Social Media Addiction Study
 
-Tools: SQL, Excel
+Tools: SQL, Excel, and Power BI
 
 - Collected data on student screen time and platform usage
 - Conducted analysis to uncover usage patterns and impact on academic performance
